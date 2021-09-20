@@ -1,21 +1,17 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Picture
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: img_6560.jpg
 ---
+Hi! I'm Claire and I am a PhD student at UCL, interested in reinforcement learning, decision making, and dabbling in structural connectivity in the brain too. 
+
+I like to use computational modeling approaches, even if I haven't been doing it for very long.
+
+Download my CV.
