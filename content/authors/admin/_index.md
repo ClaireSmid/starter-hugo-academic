@@ -15,7 +15,7 @@ social:
       header: false
     link: https://twitter.com/ClaireRSmid
     icon_pack: far
-    icon: twitter-square
+    icon: twitter
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HQ5xVqgAAAAJ&hl=en
