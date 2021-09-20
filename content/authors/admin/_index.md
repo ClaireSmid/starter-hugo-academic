@@ -2,8 +2,7 @@
 title: Claire Rosalie Smid
 role: PhD Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include learning, computational modeling, and brains.
 interests:
   - ReinforcementLearning
 social:
