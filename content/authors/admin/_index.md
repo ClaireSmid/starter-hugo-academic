@@ -40,7 +40,7 @@ education:
       institution: University College Utrecht (UCU)
       year: 2013
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 PhD student
