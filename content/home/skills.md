@@ -5,18 +5,26 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 
+    icon: python
     icon_pack: fas
-    name: Photography
+    name: Python
+  - description: 
+    icon: square-root-alt
+    icon_pack: fas
+    name: Matlab
+  - description: 
+    icon: brain
+    icon_pack: fas
+    name: FreeSurfer & SurfStat
 widget_id: Skill_list
 ---
 Python, R, Matlab
