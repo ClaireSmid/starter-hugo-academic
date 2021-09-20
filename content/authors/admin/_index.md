@@ -6,9 +6,7 @@ bio: My research interests include learning, computational modeling, and brains.
 interests:
   - Reinforcement
   - Learning
-  - Developmental
-  - Cognitive
-  - Neuroscience
+  - Developmental&nbspCognitive&nbspNeuroscience
 social:
   - icon: envelope
     icon_pack: fas
