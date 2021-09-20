@@ -10,10 +10,6 @@ feature:
     icon_pack: fab
     name: R
   - description: 
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 
     icon: python
     icon_pack: fab
     name: Python
@@ -21,6 +17,10 @@ feature:
     icon: square-root-alt
     icon_pack: fas
     name: Matlab
+  - description: 
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
   - description: 
     icon: brain
     icon_pack: fas
