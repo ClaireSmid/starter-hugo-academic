@@ -24,7 +24,3 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
-
-
-
-![](graph.png "Computational and Behavioural Markers of Model-based Decision Making in Childhood")
