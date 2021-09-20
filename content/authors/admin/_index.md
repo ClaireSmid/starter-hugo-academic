@@ -13,7 +13,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/ClaireRSmid
-    icon_pack: far
+    icon_pack: fas
     icon: twitter
   - icon: graduation-cap
     icon_pack: fas
