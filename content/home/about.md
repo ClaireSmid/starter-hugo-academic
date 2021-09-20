@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: img_6560.jpg
+    image: ""
 ---
 Hi! I'm Claire and I am a PhD student at UCL, interested in reinforcement learning, decision making, and dabbling in structural connectivity in the brain too. 
 
