@@ -4,7 +4,11 @@ role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include learning, computational modeling, and brains.
 interests:
-  - ReinforcementLearning
+  - Reinforcement
+  - Learning
+  - Developmental
+  - Cognitive
+  - Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
