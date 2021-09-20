@@ -43,6 +43,6 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-PhD student
+I use computational models to learn more about how children learn, how they might play reinforcement learning tasks, and link that back to structural connectivity in the brain.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
