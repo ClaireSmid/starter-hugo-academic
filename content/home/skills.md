@@ -27,6 +27,4 @@ feature:
     name: FreeSurfer & SurfStat
 widget_id: Skill_list
 ---
-Python, R, Matlab
 
-FreeSurfer, SurfStat
