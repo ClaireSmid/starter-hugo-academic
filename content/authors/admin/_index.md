@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/crsmid
 organizations:
   - name: University College London (UCL)
-  - name: "Developmental Change and Plasticity (DCP) Lab "
+  - name: "Developmental Change and Plasticity Lab "
     url: https://www.dcp-lab.org/
 education:
   courses:
