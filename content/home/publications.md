@@ -24,3 +24,5 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+(2021). Computational and Behavioural markers of Model-based Decision Making in Childhood . Psyarxiv \[Preprint]
