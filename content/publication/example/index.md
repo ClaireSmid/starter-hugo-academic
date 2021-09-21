@@ -34,10 +34,10 @@ tags: []
 slides: example
 url_pdf: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: graph.png
+  filename: featured.png
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
