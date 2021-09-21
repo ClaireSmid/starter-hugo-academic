@@ -18,13 +18,17 @@ feature:
     icon_pack: fas
     name: Matlab
   - description: 
-    icon: chart-line
+    icon: code-branch
     icon_pack: fas
-    name: Statistics
+    name: Computational modeling
   - description: 
     icon: brain
     icon_pack: fas
     name: FreeSurfer & SurfStat
+  - description: 
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
 widget_id: Skill_list
 ---
 
