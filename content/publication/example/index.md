@@ -38,9 +38,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: This developmental explores the presence of model-based decision making
+  in children aged 5-11 years old, and also looks at a reference sample of 24
+  adults.
 url_dataset: ""
 url_project: ""
 url_source: ""
