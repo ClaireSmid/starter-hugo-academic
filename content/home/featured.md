@@ -17,8 +17,8 @@ content:
 design:
   view: 3
   background:
-    image: graph.png
+    image: featured.png
 ---
 ## Computational and Behavioural Markers of Model-based Decision Making in Childhood
 
-Citation: Smid.
+Citation: Smid, C. R., Kool, W., Hauser, T. U., & Steinbeis, N. (2020). Model-based decision-making and its metacontrol in childhood.
